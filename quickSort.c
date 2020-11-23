@@ -1,4 +1,4 @@
-//QuickSort
+//QuickSort Program
 #include <stdio.h>
 
 int quickSort(int a[], int low, int high);
