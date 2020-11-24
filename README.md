@@ -1,2 +1,2 @@
 # 42gears
-Coding Round Preparation.
+Coding Round(Second Round) Preparation.
